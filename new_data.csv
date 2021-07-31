@@ -1,0 +1,11 @@
+,1
+circulating_supply,18770568
+id,1
+last_updated,1627597194
+max_supply,21000000
+name,Bitcoin
+quotes,"{'USD': {'price': 39745.0, 'volume_24h': 28171963226, 'market_cap': 743581667524, 'percentage_change_1h': 0.023869274289769, 'percentage_change_24h': -1.09746305128323, 'percentage_change_7d': 22.7320876943598, 'percent_change_1h': 0.023869274289769, 'percent_change_24h': -1.09746305128323, 'percent_change_7d': 22.7320876943598}}"
+rank,1
+symbol,BTC
+total_supply,18770568
+website_slug,bitcoin
