@@ -118,3 +118,8 @@ Based on the new Monte Carlo simulation, I answer the following questions in you
 Question 1: Using the current value of only the stock and bond portion of the member's portfolio and the summary statistics that you generated from the new Monte Carlo simulation, what are the lower and upper bounds for the expected value of the portfolio (with the new weights) with a 95% confidence interval?
 
 Question 2: Will weighting the portfolio more heavily toward stocks allow the credit union members to retire after only 10 years?
+
+**Special Thanks**
+Jason Garcia an I worked closely on this Challenge_5 assignment bouncing I deas off each other, so some credit shoudl be given him for helping me with the alpaca secret keys.
+
+
