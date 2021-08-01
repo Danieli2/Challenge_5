@@ -120,6 +120,7 @@ Question 1: Using the current value of only the stock and bond portion of the me
 Question 2: Will weighting the portfolio more heavily toward stocks allow the credit union members to retire after only 10 years?
 
 **Special Thanks**
-Jason Garcia an I worked closely on this Challenge_5 assignment bouncing I deas off each other, so some credit shoudl be given him for helping me with the alpaca secret keys.
+
+Jason Garcia an I worked closely on this Challenge_5 assignment bouncing I deas off each other, so some credit should be given to him for helping me with the alpaca secret keys.
 
 
